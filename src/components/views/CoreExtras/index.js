@@ -6,6 +6,7 @@ const ExtrasCore = props => {
     <>
       <Timer {...props} />
       <Dice />
+      <Tribble />
     </>
   );
 };
